@@ -1,0 +1,7 @@
+operating system system software manages computer hardware software resources provides common services computer programs
+
+
+Time sharing operating systems schedule tasks efficient system include accounting software cost allocation processor time
+
+
+mass storage printing other resources
